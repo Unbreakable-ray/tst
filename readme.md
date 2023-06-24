@@ -2,6 +2,27 @@
 
 ![Untitled_Artwork-1686319289723-2](./sub-readme/readme-data/Untitled_Artwork-1686319289723-2.jpg)
 
+[Steam writing assistant (SWA)](#-Steam-writing-assistant-(SWA))
+[Futures:](#futures:).
+
+[How to use](#-	How-to-use-)
+[Hotkeys (new)](#-Hotkeys-(new))
+[Debug menu](#Debug-menu)
+[Art History](#-Art-History)
+[HTML test](#-HTML-test)
+[How to use](#-How-to-use-)
+[Hotkeys (new)](#-Hotkeys-(new))
+[Debug menu](#-Debug-menu)
+[Art History](#-Art-History)
+[HTML test](#-HTML-test)
+[For development section](#-For-development-section)
+[Bugs](#-Bugs-)
+[Bugs outside the control (need to rework)](#-Bugs-outside-the-control-(need-to-rework))
+[Changes](#-Changes)
+[Planned New Futures](#-Planned-New-Futures											)
+[Idea](#-Idea-)
+
+
 a **Software** that makes writing in Steam forums more organized and fun
 
 # Futures:
@@ -411,21 +432,4 @@ For devs or Expert users
 Auto-merged at 01:11:20 PM 2023/06/24	@xMaxrayx	@Unbreakable-ray
 
 All-in-one Readme Lite : https://github.com/Unbreakable-ray/All-in-one-Readme_Lite
-[Steam writing assistant (SWA)](#-Steam-writing-assistant-(SWA))
-[Futures:](#Futures:)
-[How to use](#-	How-to-use-)
-[Hotkeys (new)](#-Hotkeys-(new))
-[Debug menu](#Debug-menu)
-[Art History](#-Art-History)
-[HTML test](#-HTML-test)
-[How to use](#-	How-to-use-)
-[Hotkeys (new)](#-Hotkeys-(new))
-[Debug menu](#-Debug-menu)
-[Art History](#-Art-History)
-[HTML test](#-HTML-test)
-[For development section](#-For-development-section)
-[Bugs](#-Bugs-													)
-[Bugs outside the control (need to rework)](#-Bugs-outside-the-control-(need-to-rework))
-[Changes](#-Changes)
-[Planned New Futures](#-Planned-New-Futures											)
-[Idea](#-Idea-)
+
