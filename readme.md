@@ -412,10 +412,10 @@ Auto-merged at 01:11:20 PM 2023/06/24	@xMaxrayx	@Unbreakable-ray
 
 All-in-one Readme Lite : https://github.com/Unbreakable-ray/All-in-one-Readme_Lite
 [Steam writing assistant (SWA)](#-Steam-writing-assistant-(SWA))
-[Futures:](#-Futures:)
+[Futures:](#Futures:)
 [How to use](#-	How-to-use-)
 [Hotkeys (new)](#-Hotkeys-(new))
-[Debug menu](#-Debug-menu)
+[Debug menu](#Debug-menu)
 [Art History](#-Art-History)
 [HTML test](#-HTML-test)
 [How to use](#-	How-to-use-)
