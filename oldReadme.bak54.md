@@ -408,24 +408,24 @@ For devs or Expert users
 
 
 
-Auto-merged at 03:35:03 PM 2023/06/24	@xMaxrayx	@Unbreakable-ray
+Auto-merged at 03:34:30 PM 2023/06/24	@xMaxrayx	@Unbreakable-ray
 
 All-in-one Readme Lite : https://github.com/Unbreakable-ray/All-in-one-Readme_Lite
-[Steam writing assistant (SWA)](#steam-writing-assistant-(swa))
+[Steam writing assistant (SWA)](#steam writing assistant (swa))
 [Futures:](#futures:)
-[How to use](#how-to-use)
-[Hotkeys (new)](#hotkeys-(new))
-[Debug menu](#debug-menu)
-[Art History](#art-history)
-[HTML test](#html-test)
-[How to use](#how-to-use)
-[Hotkeys (new)](#hotkeys-(new))
-[Debug menu](#debug-menu)
-[Art History](#art-history)
-[HTML test](#html-test)
-[For development section](#for-development-section)
+[How to use](#how to use)
+[Hotkeys (new)](#hotkeys (new))
+[Debug menu](#debug menu)
+[Art History](#art history)
+[HTML test](#html test)
+[How to use](#how to use)
+[Hotkeys (new)](#hotkeys (new))
+[Debug menu](#debug menu)
+[Art History](#art history)
+[HTML test](#html test)
+[For development section](#for development section)
 [Bugs](#bugs)
-[Bugs outside the control (need to rework)](#bugs-outside-the-control-(need-to-rework))
+[Bugs outside the control (need to rework)](#bugs outside the control (need to rework))
 [Changes](#changes)
-[Planned New Futures](#planned-new-futures)
+[Planned New Futures](#planned new futures)
 [Idea](#idea)
